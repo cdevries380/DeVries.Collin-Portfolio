@@ -8,7 +8,7 @@ I hope you find these analyses both interesting and insightful.
 
 ## Projects
 
-### [Coffee Sales Analysis](https://github.com/cdevries380/coffee_sales_analysis)  
+### [Coffee Sales Analysis](https://github.com/cdevries380/coffee-sales-analysis)
 *SQL + Google Sheets*  
 
 This project explores coffee sales data to identify trends in customer behavior and sales performance. 
