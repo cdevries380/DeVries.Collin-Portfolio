@@ -2,7 +2,6 @@
 
 Welcome to my portfolio --  I took on some projects that include data I retrieved from kaggle.com. 
 The tools I use include **SQL**, **Excel/Google Sheets**, **Tableau**, and **R**.  
-I really tried to make sure the conclusions I drew would be as insightful as possible to real business owners/policy makers as possible.
 
 ---
 
