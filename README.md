@@ -1,7 +1,7 @@
 # Collin R. DeVries – Data Analytics Portfolio
 
 Welcome to my portfolio --  I took on some projects that include data I retrieved from kaggle.com. 
-The tools I use include **SQL**, **Excel/Google Sheets**, **Tableau**, and **R**.  
+The tools I use include **SQL**, **Excel/Google Sheets**, and **Tableau**. 
 
 ---
 
