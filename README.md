@@ -15,3 +15,27 @@ Key analyses include:
 - **Sales by Hour (Line Graph):** Reveals peak hours when customers are most active.  
 
 The insights can help a coffee shop make better decisions about promotions, inventory, and staffing. 
+
+
+### [Cyclistic Bike-Share Case Study](https://github.com/cdevries380/bike-share-data-analysis)
+*SQL + Excel + Tableau*  
+
+This project analyzes a full year of Cyclistic bike-share data to understand differences between casual riders and annual members.  
+Key analyses include:  
+- **Rides by day of week**  
+- **Usage patterns by rider type**  
+- **Visualizations created to support marketing recommendations**  
+
+The findings help inform strategies for converting casual riders into annual subscribers.
+
+
+### [Post-Pandemic Work & Health Analysis](https://github.com/cdevries380/post-pandemic-work-health-tableau)
+*Tableau*  
+
+This project explores how work habits and personal well-being changed in the years following the COVID-19 pandemic.  
+Key analyses include:  
+- **Work-from-home trends**  
+- **Health and wellness indicators across time**  
+- **Interactive Tableau dashboards for stakeholder communication**  
+
+The project highlights how data visualization can clarify long-term behavioral shifts and support informed workplace policy decisions.
