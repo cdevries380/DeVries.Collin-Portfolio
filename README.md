@@ -30,7 +30,7 @@ The insights help a coffee shop make smarter decisions about promotions, invento
 
 ### Cyclistic Bike-Share Case Study
 **Repository:** https://github.com/cdevries380/bike-share-data-analysis  
-*SQL + Excel + Tableau*  
+*SQL + Excel
 
 This project analyzes a full year of Cyclistic bike-share data to understand differences between casual riders and annual members.  
 Key analyses include:  
