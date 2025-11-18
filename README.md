@@ -1,9 +1,8 @@
 # Collin R. DeVries – Data Analytics Portfolio
 
-Welcome to my portfolio --  I took on some projects that include data I retrieved from kaggle.com. 
-The tools I use include **SQL**, **Excel/Google Sheets**, and **Tableau**. 
+Hi I'm Collin! I'm a data analyst with a background in politics and have extensive experience conducting a variety of analyses for political campaigns. I love the process of taking raw data and translating it into meaningful insights. It's always a really rewarding process for me and I enjoy looking for ways to expand and improve my skills. Despite my past experience with data analysis, I decided to take Google's data analysis certification course, which I found was great for helping me build a more structured and formally trained approach to the analytical process — especially through their main framework that follows the stages of Ask, Prepare, Process, Analyze, and Share/Act.
 
----
+For the purpose of staying organized and consistent, all the projects in this portfolio will follow the same structure. Tools used include SQL, Google Sheets, and Tableau. 
 
 ## Projects
 
