@@ -10,7 +10,7 @@ For the purpose of staying organized and consistent, all the projects in this po
 - [Projects](#projects)
   - [Coffee Sales Analysis](#coffee-sales-analysis)
   - [Cyclistic Bike-Share Case Study](#cyclistic-bike-share-case-study)
-  - [Post-Pandemic Work & Health Analysis](#post-pandemic-work--health-analysis)
+  - [Tableau Analysis of Employee Burnout and Social Isolation Trends](#tableau-analysis-of-employee-burnout-and-social-isolation-trends)
 
 ---
 
