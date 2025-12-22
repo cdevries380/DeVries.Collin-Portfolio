@@ -41,6 +41,7 @@ Key analyses include:
 The findings support strategies for converting more casual riders into annual subscribers.
 
 
-## Tableau Analysis of Employee Burnout and Social Isolation Trends
+### Tableau Analysis of Employee Burnout and Social Isolation Trends
+**Repository:** https://github.com/cdevries380/post-pandemic-work-health-tableau  
 
-This project analyzes employee survey data to explore how **work arrangements (remote, hybrid, on-site)** relate to **burnout levels** and **social isolation**. Using Tableau Public, the analysis identifies patterns across industries and job roles, highlights surprising insights about remote work, and provides actionable recommendations for improving employee wellbeing. The goal is to demonstrate how data-driven insights can inform organizational decisions and support workforce health.
+This project analyzes employee survey data to explore how **work arrangements (remote, hybrid, on-site)** relate to **burnout** and **social isolation**. Using Tableau, the analysis identifies trends across industries and job roles and provides actionable insights to support **employee wellbeing**.
